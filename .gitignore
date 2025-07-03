@@ -1,0 +1,8 @@
+# Ignore large generated files
+data/*.csv
+vector_store/*.faiss
+vector_store/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
